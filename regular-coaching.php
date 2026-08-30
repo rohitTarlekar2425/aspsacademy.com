@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from live.themewild.com/edubo/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Aug 2026 16:33:52 GMT -->
+
+<head>
+  <!-- meta tags -->
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+
+  <!-- title -->
+  <title>ASP'S ACADEMY</title>
+
+  <!-- favicon -->
+  <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png" />
+
+  <!-- css -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
+  <link rel="stylesheet" href="assets/css/animate.min.css" />
+  <link rel="stylesheet" href="assets/css/magnific-popup.min.css" />
+  <link rel="stylesheet" href="assets/css/owl.carousel.min.css" />
+  <link rel="stylesheet" href="assets/css/nice-select.min.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+
+<body>
+
+<?php include('header.php') ?>
+
+
+
+  <main class="main">
+   
+    <!-- breadcrumb -->
+    <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.png)">
+      <div class="container">
+        <h2 class="breadcrumb-title">Regular Coaching (5th To 10th - All
+                        Subjects)</h2>
+        <ul class="breadcrumb-menu">
+          <li><a href="index.php">Home</a></li>
+          <li class="active">Regular Coaching (5th To 10th - All
+                        Subjects)</li>
+        </ul>
+      </div>
+    </div>
+    <!-- breadcrumb end -->
+
+
+
+ <!-- course-single -->
+    <div class="course-single pt-50 pb-80">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7 col-xl-8">
+            <div class="course-single-wrap">
+              <!--  video area -->
+              <div class="video-area" style="background-image: url(assets/img/course/video.html)">
+                <div class="row">
+                  <div class="col-lg-12">
+                    <div class="video-wrap">
+                     <img src="assets/img/course/01.jpg" alt="">
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- video area end -->
+
+              <!-- course single tab -->
+              <div class="course-single-tab">
+                <ul class="nav nav-underline">
+                  <li class="nav-item">
+                    <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#course-tab1"
+                      type="button">Description</button>
+                  </li>
+                  <li class="nav-item">
+                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#course-tab2"
+                      type="button">Infrastructure</button>
+                  </li>
+                  <li class="nav-item">
+                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#course-tab3"
+                      type="button">Course Details</button>
+                  </li>
+                 
+                </ul>
+
+           <div class="tab-content">
+
+  <!-- tab 1 -->
+  <div class="tab-pane fade active show" id="course-tab1">
+    <div class="course-details mt-4">
+
+      <div class="mb-4">
+        <h5 class="mb-10">Description</h5>
+        <p>
+          ASP's Academy provides comprehensive Regular Coaching for students from
+          5th to 10th standard, covering all major subjects. Our coaching program
+          focuses on building strong academic fundamentals, improving conceptual
+          understanding, regular practice, and preparing students to perform
+          confidently in school examinations.
+        </p>
+        <p>
+          Experienced faculty members provide personalized guidance, classroom
+          learning, doubt-solving sessions, regular tests, revision, and
+          exam-oriented preparation to help every student achieve better academic
+          results.
+        </p>
+      </div>
+
+      <div class="mb-4">
+        <h5 class="mb-10">Course Requirements</h5>
+        <p>
+          This course is designed for students studying in 5th to 10th standard.
+          Students should attend regular classes, complete assigned practice,
+          participate in tests, and actively work on their concepts.
+        </p>
+
+        <ul class="course-list">
+          <li>
+            <i class="far fa-check"></i>
+            Students from 5th to 10th standard can enroll.
+          </li>
+          <li>
+            <i class="far fa-check"></i>
+            Covers Mathematics, Science, English, Social Science and other school subjects.
+          </li>
+          <li>
+            <i class="far fa-check"></i>
+            Strong focus on fundamental concepts and academic improvement.
+          </li>
+          <li>
+            <i class="far fa-check"></i>
+            Regular homework, practice sessions and doubt-solving support.
+          </li>
+          <li>
+            <i class="far fa-check"></i>
+            Periodic tests and revision sessions for better exam preparation.
+          </li>
+          <li>
+            <i class="far fa-check"></i>
+            Personalized guidance to identify and improve weak areas.
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- tab 2 -->
+  <div class="tab-pane fade" id="course-tab2">
+    <div class="course-curriculum mt-4">
+      <div class="accordion accordion-flush" id="course-accordion">
+
+        <!-- Academic Foundation -->
+        <div class="accordion-item">
+          <h2 class="accordion-header">
+            <button class="accordion-button" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#curriculum1">
+              Academic Foundation
+            </button>
+          </h2>
+
+          <div id="curriculum1"
+            class="accordion-collapse collapse show"
+            data-bs-parent="#course-accordion">
+
+            <div class="accordion-body">
+
+              <div class="curriculum-item unlock completed">
+                <div class="left">
+                  <h6>
+                    <i class="fad fa-check-circle"></i>
+                    <span>Subject:</span> Mathematics
+                  </h6>
+                </div>
+                <div class="right">
+                  <span class="duration">Regular</span>
+                  <span class="lock">
+                    <i class="fad fa-unlock"></i>
+                  </span>
+                </div>
+              </div>
+
+              <div class="curriculum-item unlock">
+                <div class="left">
+                  <h6>
+                    <i class="fad fa-play-circle"></i>
+                    <span>Subject:</span> Science
+                  </h6>
+                </div>
+                <div class="right">
+                  <span class="duration">Regular</span>
+                  <span class="lock">
+                    <i class="fad fa-unlock"></i>
+                  </span>
+                </div>
+              </div>
+
+              <div class="curriculum-item unlock">
+                <div class="left">
+                  <h6>
+                    <i class="fad fa-play-circle"></i>
+                    <span>Subject:</span> English
+                  </h6>
+                </div>
+                <div class="right">
+                  <span class="duration">Regular</span>
+                  <span class="lock">
+                    <i class="fad fa-unlock"></i>
+                  </span>
+                </div>
+              </div>
+
+              <div class="curriculum-item">
+                <div class="left">
+                  <h6>
+                    <i class="fad fa-play-circle"></i>
+                    <span>Subject:</span> Social Science
+                  </h6>
+                </div>
+                <div class="right">
+                  <span class="duration">Regular</span>
+                  <span class="lock">
+                    <i class="fad fa-lock"></i>
+                  </span>
+                </div>
+              </div>
+
+              <div class="curriculum-item">
+                <div class="left">
+                  <h6>
+                    <i class="fad fa-file-alt"></i>
+                    <span>Practice:</span> Worksheets & Assignments
+                  </h6>
+                </div>
+                <div class="right">
+                  <span class="duration">Weekly</span>
+                  <span class="lock">
+                    <i class="fad fa-lock"></i>
+                  </span>
+                </div>
+              </div>
+
+              <div class="curriculum-item">
+                <div class="left">
+                  <h6>
+                    <i class="fad fa-file-alt"></i>
+                    <span>Tests:</span> Regular Tests & Revision
+                  </h6>
+                </div>
+                <div class="right">
+                  <span class="duration">Regular</span>
+                  <span class="lock">
+                    <i class="fad fa-lock"></i>
+                  </span>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+        <!-- Exam Preparation -->
+        <div class="accordion-item">
+          <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#curriculum2">
+              Exam Preparation
+            </button>
+          </h2>
+
+          <div id="curriculum2"
+            class="accordion-collapse collapse"
+            data-bs-parent="#course-accordion">
+
+            <div class="accordion-body">
+
+              <div class="curriculum-item">
+                <div class="left">
+                  <h6>
+                    <i class="fad fa-play-circle"></i>
+                    <span>Preparation:</span> School Examination
+                  </h6>
+                </div>
+                <div class="right">
+                  <span class="duration">Regular</span>
+                  <span class="lock">
+                    <i class="fad fa-lock"></i>
+                  </span>
+                </div>
+              </div>
+
+              <div class="curriculum-item">
+                <div class="left">
+                  <h6>
+                    <i class="fad fa-file-alt"></i>
+                    <span>Practice:</span> Question Paper Solving
+                  </h6>
+                </div>
+                <div class="right">
+                  <span class="duration">Regular</span>
+                  <span class="lock">
+                    <i class="fad fa-lock"></i>
+                  </span>
+                </div>
+              </div>
+
+              <div class="curriculum-item">
+                <div class="left">
+                  <h6>
+                    <i class="fad fa-check-circle"></i>
+                    <span>Revision:</span> Chapter-wise Revision
+                  </h6>
+                </div>
+                <div class="right">
+                  <span class="duration">Regular</span>
+                  <span class="lock">
+                    <i class="fad fa-lock"></i>
+                  </span>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- tab 3 -->
+  <div class="tab-pane fade" id="course-tab3">
+    <div class="course-instructor mt-4">
+
+      <div class="instructor-img">
+       <img src="assets/img/logo/favicon.png"
+          alt="ASP's Academy Faculty" />
+      </div>
+
+      <div class="instructor-info">
+        <h4>ASP's Academy Faculty</h4>
+
+        <div class="instructor-info-wrap">
+
+          <div class="rating">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i> <br>
+            <span>Expert Faculty</span>
+          </div>
+
+          <span class="course">
+            <i class="fad fa-book-open"></i> <br>
+            All Subjects
+          </span>
+
+          <span class="enrolled">
+            <i class="fad fa-user-friends"></i> <br>
+            5th to 10th Standard
+          </span>
+
+        </div>
+
+        <p>
+          At ASP's Academy, our experienced and dedicated faculty members focus
+          on conceptual learning, individual attention, regular practice and
+          examination preparation. Our goal is to help students develop strong
+          academic foundations and achieve consistent improvement in their
+          studies.
+        </p>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+              </div>
+              <!-- course single tab end -->
+            </div>
+          </div>
+          <div class="col-lg-5 col-xl-4">
+            <!-- course-single-sidebar -->
+            <div class="course-single-sidebar">
+              <div class="price-wrap">
+                <div class="price-amount"><span>Course Details</span></div>
+
+              </div>
+             
+              <div class="more-info">
+                <ul>
+                  <li><i class="fad fa-user"></i> Instructor : <span>Amita Patil </span></li>
+                  <li><i class="fad fa-layer-group"></i> Level : <span>Expert</span></li>
+                  <li><i class="fad fa-book"></i> Practice : <span>Regular</span></li>
+                  <li><i class="fad fa-clock"></i> Duration : <span>03 Months</span></li>
+                  <li><i class="fad fa-user-friends"></i> Batch : <span>Morning & Evening</span></li>
+                  <li><i class="fad fa-globe"></i> Medium : <span>Marathi, Hindi, English</span></li>
+                </ul>
+              </div>
+              <div class="include">
+                <h5>Course Includes</h5>
+                <ul>
+                  <li><i class="fad fa-check-circle"></i> Regular Test</li>
+                  <li><i class="fad fa-check-circle"></i> Doubt Solving </li>
+                  <li><i class="fad fa-check-circle"></i> Personalized Attention</li>
+                  <li><i class="fad fa-check-circle"></i> Concept Based Learning</li>
+                  <li><i class="fad fa-check-circle"></i> Digital Learning</li>
+                </ul>
+              </div>
+              <div class="share">
+                <h5>Social Share</h5>
+                <div class="share-link">
+                  <a href="#"><i class="fab fa-facebook-f"></i></a>
+              
+                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                  <a href="#"><i class="fab fa-youtube"></i></a>
+                </div>
+              </div>
+               <div class="share">
+              
+              <div class="event-author-info">
+                <img src="assets/img/logo/favicon.png" alt="" />
+                 <h3>Call Us </h3>
+                <h5><a href="tel:+91 8530740079">+91 8530740079</a></h5>
+                 <a href="contact.php" class="theme-btn mt-1">Contact Now<i class="fas fa-arrow-right"></i></a>
+
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- course-single end -->
+
+ 
+  
+   
+
+  </main>
+
+ 
+<?php include('footer.php') ?>
+
+
+ 
+</body>
+</html>
