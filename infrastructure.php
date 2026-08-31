@@ -62,6 +62,36 @@
           </div>
         </div>
         <div class="row g-4 popup-gallery">
+           <div class="col-md-4">
+            <div class="gallery-item wow fadeInDown" data-wow-delay=".25s">
+              <div class="gallery-img">
+                <img src="assets/img/gallery/07.jpeg" alt="" />
+              </div>
+              <div class="gallery-content">
+                <a class="popup-img gallery-link" href="assets/img/gallery/06.jpeg"><i class="fal fa-plus"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-item wow fadeInDown" data-wow-delay=".25s">
+              <div class="gallery-img">
+                <img src="assets/img/gallery/08.jpeg" alt="" />
+              </div>
+              <div class="gallery-content">
+                <a class="popup-img gallery-link" href="assets/img/gallery/06.jpeg"><i class="fal fa-plus"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-item wow fadeInDown" data-wow-delay=".25s">
+              <div class="gallery-img">
+                <img src="assets/img/gallery/09.jpeg" alt="" />
+              </div>
+              <div class="gallery-content">
+                <a class="popup-img gallery-link" href="assets/img/gallery/06.jpeg"><i class="fal fa-plus"></i></a>
+              </div>
+            </div>
+          </div>
           <div class="col-md-4">
             <div class="gallery-item wow fadeInUp" data-wow-delay=".25s">
               <div class="gallery-img">
@@ -122,7 +152,7 @@
               </div>
             </div>
           </div>
-        
+       
         </div>
       </div>
     </div>
